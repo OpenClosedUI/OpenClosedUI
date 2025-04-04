@@ -32,7 +32,7 @@ UI Gateway can controll the following things:
 OpenClosedUI's architecture enables
 
 
-<!-- everything below is based on brainstorming with AI: -->
+## everything below is based on brainstorming with AI:
 
 ## Core Components
 
