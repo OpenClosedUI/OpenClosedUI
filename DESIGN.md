@@ -25,12 +25,9 @@ OpenClosedAI exposes AI chats through an API by currently using Steel since most
 UI gateway connects the controlled app in a safe way to a UI controller residing in the app such as OpenWebUI, Dating Apps Swiper inside OpenClosedUI Android/iOS app, etc. It exposes an API accessed by a token and allows only actions allowed in current user's configuration. For now, the configuration is simply in config but later may be stored in a KV storage to allow creating intermediate gateway providers so users can have flexibility without having to deploy their own version of UI gateway.
 
 UI Gateway can controll the following things:
-- Steel Browser whether 
-
-### Possible Solutions
-
-OpenClosedUI's architecture enables
-
+- Steel Browser, whether through Steel Orchestrator or using Steel Cloud
+- Android apps through Media Projection API and Virtual Screen
+- iOS apps (technologies to be decided)
 
 ## everything below is based on brainstorming with AI:
 
